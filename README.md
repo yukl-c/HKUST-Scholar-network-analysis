@@ -1,5 +1,5 @@
 # HKUST-Scholar-network-analysis
-HKUST Scholar in Department of Computer Science network analysis with Request and Beautiful Soup
+HKUST Scholar in Department of Computer Science and Engineering network analysis with Request and Beautiful Soup
 
 Data Preparation
 1. Locate the data: Faculty Profile → Scholar Profile → Publications
